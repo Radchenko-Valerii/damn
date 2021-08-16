@@ -1,5 +1,21 @@
-div{
-  width: 700px;
+.div1{
+  width: 1000px;
   height: 300px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
 }
 
+.div2{
+  width: 1000px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+img{
+  width: 200px;
+  height: 200px;
+}
